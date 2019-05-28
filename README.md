@@ -38,7 +38,7 @@ Modern States Master List
 
 OnlineDegree Master List
 
-|  Class Name | Credit Hours | Average Cost | Oneline DegreeCost | Class Links | Accreditation  |
+|  Class Name | Credit Hours | Average Cost | Oneline Degree Cost | Class Links | Accreditation  |
 | --- | --- | --- | --- | --- | --- |
 |  Environmental Science- Climate Change & the Cyrosphere (EV103) | 3 |  $ 1,800.00  | Free | https://my.onlinedegree.com/courses/environmental-science-climate-change-the-cyrosphere-ev103/ | NCCRS |
 |  Cooking- Introduction to Culinary Skills (CK101) | 3 |  $ 1,800.00  | Free | https://my.onlinedegree.com/courses/cooking-introduction-to-culinary-skills-ck101/ | NCCRS |
@@ -55,23 +55,6 @@ OnlineDegree Master List
 |  Biology- Organisms and Ecosystems (BG101) | 3 |  $ 1,800.00  | Free | https://my.onlinedegree.com/courses/biology-organisms-and-ecosystems/ | NCCRS |
 |  Education- Language & Literacy in Education (ED103) | 3 |  $ 1,800.00  | Free | https://my.onlinedegree.com/courses/education-language-literacy-in-k12-education/ | NCCRS |
 |  Healthcare- Introduction to Public Health (HC101) | 3 |  $ 1,800.00  | Free | https://my.onlinedegree.com/courses/healthcare-introduction-to-public-health/ | NCCRS |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
-|   |  |  | Free |  |  |
 |  Total Credits and Cost | 45 |  $ 27,000.00  | Free |  |  |
 
 Niche Free Credits
