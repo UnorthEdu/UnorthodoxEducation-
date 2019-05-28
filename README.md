@@ -73,3 +73,14 @@ OnlineDegree Master List
 |   |  |  | Free |  |  |
 |   |  |  | Free |  |  |
 |  Total Credits and Cost | 45 |  $ 27,000.00  | Free |  |  |
+
+Niche Free Credits
+
+|  Class Name | Credit Hours | Average Cost | Niche Credit Cost | Class Links | Accreditation  |
+| --- | --- | --- | --- | --- | --- |
+|  The Essentials of Managing Conflict | 1 |  $ 600.00  | Free | https://www.sophia.org/online-courses/the-essentials-of-managing-conflict | ACE |
+|  Developing Effective Teams | 1 |  $ 600.00  | Free | https://www.sophia.org/online-courses/developing-effective-teams-2 | ACE |
+|  Online for Everyone - Non-Technical (Cyber 101) | 3 |  $ 1,800.00  | Free | https://teex.org/Pages/Program.aspx?catID=607 | ACE |
+|  Online for IT Professionals (Cyber 201)  | 3 |  $ 1,800.00  | Free | https://teex.org/Pages/Program.aspx?catID=607 | ACE |
+|  Online for Business Professionals (Cyber 301) | 3 |  $ 1,800.00  | Free | https://teex.org/Pages/Program.aspx?catID=607 | ACE |
+|  Total Credits and Cost | 11 |  $ 6,600.00  | Free |  |  |
