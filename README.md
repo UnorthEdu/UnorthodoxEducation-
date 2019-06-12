@@ -67,3 +67,12 @@ Niche Free Credits
 |  Online for IT Professionals (Cyber 201)  | 3 |  $ 1,800.00  | Free | https://teex.org/Pages/Program.aspx?catID=607 | ACE |
 |  Online for Business Professionals (Cyber 301) | 3 |  $ 1,800.00  | Free | https://teex.org/Pages/Program.aspx?catID=607 | ACE |
 |  Total Credits and Cost | 11 |  $ 6,600.00  | Free |  |  |
+
+Organization Links
+
+|  Organization Name | Organization Links |
+| --- | --- |
+|  College Level Exam Placement (CLEP) (College Board) | https://clep.collegeboard.org/ |
+|  American Council on Education (ACE) | https://www.acenet.edu/Pages/default.aspx |
+|  American Council on Education Registery (ACE) | https://www2.acenet.edu/credit/?fuseaction=transcripts.main |
+|  National College Credit Reccomendation Service (NCCRS) | http://www.nationalccrs.org/ |
