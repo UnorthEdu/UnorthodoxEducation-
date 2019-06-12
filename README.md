@@ -68,7 +68,7 @@ Niche Free Credits
 |  Online for Business Professionals (Cyber 301) | 3 |  $ 1,800.00  | Free | https://teex.org/Pages/Program.aspx?catID=607 | ACE |
 |  Total Credits and Cost | 11 |  $ 6,600.00  | Free |  |  |
 
-Organization Links
+Helpful Links
 
 |  Organization Name | Organization Links |
 | --- | --- |
