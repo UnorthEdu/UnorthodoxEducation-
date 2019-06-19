@@ -1,4 +1,4 @@
-Modern States Master List
+Modernstates Master List
 
 |  Class Name | Credit Hours | Average Cost | Modern States Cost | Class Links | Accreditation  |
 | --- | --- | --- | --- | --- | --- |
